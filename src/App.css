@@ -1,0 +1,32 @@
+header {
+  background: #142d5c;
+  color: white;
+  text-align: center;
+  padding: 28px 16px;
+}
+
+header h1 {
+  margin: 0 0 8px;
+}
+
+header p {
+  margin: 0;
+}
+
+section {
+  background: white;
+  margin: 22px auto;
+  padding: 20px;
+  max-width: 850px;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+section h2 {
+  color: #142d5c;
+  margin-top: 0;
+}
+
+li {
+  padding: 5px 0;
+}
